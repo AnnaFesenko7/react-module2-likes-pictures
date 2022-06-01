@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-module2-likes-pictures/static/css/main.9d79150d.css",
+    "main.js": "/react-module2-likes-pictures/static/js/main.e8e8955a.js",
+    "index.html": "/react-module2-likes-pictures/index.html",
+    "main.9d79150d.css.map": "/react-module2-likes-pictures/static/css/main.9d79150d.css.map",
+    "main.e8e8955a.js.map": "/react-module2-likes-pictures/static/js/main.e8e8955a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d79150d.css",
+    "static/js/main.e8e8955a.js"
+  ]
+}
